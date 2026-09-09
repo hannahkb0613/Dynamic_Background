@@ -1,0 +1,31 @@
+{
+  "background": {
+
+    "type": "gradient",
+    
+    "colors": ["#DCDCDC", "#B0B0B0", "#D3D3D3", "#828082", "#BEBEBE", "#D3D3D3", "#DCDCDC"],
+    
+    "direction": "45deg",
+    
+    "animationSpeed": "18s",
+
+    "keyframes": [
+      { "position": "0%", "backgroundPosition": "50% 25%" },
+      { "position": "25%", "backgroundPosition": "60% 25%" },
+      { "position": "50%", "backgroundPosition": "70% 25%" },
+      { "position": "75%", "backgroundPosition": "60% 25%" },
+      { "position": "100%", "backgroundPosition": "50% 25%" }
+    ],
+
+    "themes": {
+      "greyscale": ["#808080", "#B0B0B0", "#D3D3D3", "#A9A9A9", "#BEBEBE", "#C0C0C0", "#DCDCDC"],
+
+      "day": ["#AD4A28", "#DD723C", "#FC7001", "#DCB697", "#9BA5AE", "#3E5879", "#020B1A"],
+      
+      "night": ["#3C3D5C", "#2F497D", "#2E2945", "#19092e", "#818C99", "#19092e", "#EBF3F7"],
+
+      "about": ["#EF9393", "#E684B2", "#C983CC", "#998EE0", "#60A3D5", "#5BBDD3", "#8BDEDA"]
+
+    }
+  }
+}
